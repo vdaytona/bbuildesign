@@ -1,0 +1,14 @@
+# Personal/local QA data — do not publish
+_qa/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Build / temp
+*.log
+*.tmp
+node_modules/
