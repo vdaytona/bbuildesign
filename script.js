@@ -78,7 +78,7 @@ function renderFooter() {
         </div>
         <div>
           <h4>Credentials</h4>
-          <p>ABN 54 628 111 204<br/>Licence 323679C<br/><span style="opacity:.7">Previously B Yang Construction Pty Ltd</span></p>
+          <p>ABN 54 628 111 204<br/>Licence 500655C<br/><span style="opacity:.7">Previously B Yang Construction Pty Ltd</span></p>
         </div>
       </div>
     </div>
