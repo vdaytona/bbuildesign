@@ -5,7 +5,7 @@ A polished, design-led website for B&B Building and Design Pty Ltd (previously B
 ## Files
 - `index.html` — homepage
 - `about.html`, `services.html`, `portfolio.html`, `blog.html`, `contact.html` — main pages
-- `portfolio-*.html` — 7 project detail pages
+- `portfolio-*.html` — 9 project detail pages
 - `blog-*.html` — 3 journal articles
 - `styles.css` — styling (warm palette, Cormorant Garamond + Inter)
 - `script.js` — shared header & footer, mobile nav, scroll reveal, contact form
